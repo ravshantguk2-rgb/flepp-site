@@ -1,0 +1,3014 @@
+{
+  "Английский": [
+    {
+      "q": "A1. Choose the correct form: I ___ from Tajikistan.",
+      "a": [
+        "am",
+        "is",
+        "are"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Choose the correct article: This is ___ apple.",
+      "a": [
+        "a",
+        "an",
+        "the"
+      ],
+      "correct": 1,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Complete the sentence: She ___ English every day.",
+      "a": [
+        "study",
+        "studies",
+        "studying"
+      ],
+      "correct": 1,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Choose the plural form: bus → ___",
+      "a": [
+        "buses",
+        "bus",
+        "busies"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Choose the correct question: ___ you like tea?",
+      "a": [
+        "Do",
+        "Does",
+        "Are"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Complete the sentence: They ___ in Khujand.",
+      "a": [
+        "live",
+        "lives",
+        "living"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Choose the correct possessive adjective: This is ___ pen.",
+      "a": [
+        "my",
+        "me",
+        "mine"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Choose the past form: Yesterday we ___ at home.",
+      "a": [
+        "are",
+        "were",
+        "was"
+      ],
+      "correct": 1,
+      "level": "A1"
+    },
+    {
+      "q": "A2. Complete: There ___ many books on the table.",
+      "a": [
+        "is",
+        "are",
+        "was"
+      ],
+      "correct": 1,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Choose the correct form: I ___ this film before.",
+      "a": [
+        "see",
+        "saw",
+        "have seen"
+      ],
+      "correct": 2,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Choose the correct preposition: He is interested ___ music.",
+      "a": [
+        "on",
+        "in",
+        "at"
+      ],
+      "correct": 1,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Complete: We ___ going to visit Buston next week.",
+      "a": [
+        "am",
+        "is",
+        "are"
+      ],
+      "correct": 2,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Choose the comparative form: good → ___",
+      "a": [
+        "gooder",
+        "better",
+        "more good"
+      ],
+      "correct": 1,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Choose the correct sentence.",
+      "a": [
+        "She doesn't likes coffee.",
+        "She doesn't like coffee.",
+        "She not like coffee."
+      ],
+      "correct": 1,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Complete the first conditional: If it rains, we ___ stay at home.",
+      "a": [
+        "will",
+        "would",
+        "are"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Choose the correct option: I have lived here ___ 2021.",
+      "a": [
+        "for",
+        "since",
+        "from"
+      ],
+      "correct": 1,
+      "level": "A2"
+    },
+    {
+      "q": "B1. Choose the correct form: If I had more time, I ___ German.",
+      "a": [
+        "learn",
+        "would learn",
+        "learned"
+      ],
+      "correct": 1,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Complete: She apologized ___ being late.",
+      "a": [
+        "for",
+        "about",
+        "to"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Choose the passive form: The letter ___ yesterday.",
+      "a": [
+        "sent",
+        "was sent",
+        "is sent"
+      ],
+      "correct": 1,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Choose the best linker for contrast.",
+      "a": [
+        "however",
+        "because",
+        "therefore"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Complete: By the time I arrived, the lesson ___ .",
+      "a": [
+        "started",
+        "had started",
+        "has started"
+      ],
+      "correct": 1,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Choose the reported speech form: He said that he ___ tired.",
+      "a": [
+        "is",
+        "was",
+        "has"
+      ],
+      "correct": 1,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Complete: I’m looking forward to ___ from you.",
+      "a": [
+        "hear",
+        "hearing",
+        "heard"
+      ],
+      "correct": 1,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Choose the word closest to 'reliable'.",
+      "a": [
+        "trustworthy",
+        "expensive",
+        "funny"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B2. Choose the correct inversion: Not only ___ late, but he also forgot the report.",
+      "a": [
+        "he was",
+        "was he",
+        "did he was"
+      ],
+      "correct": 1,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Complete: The proposal needs to be looked ___ carefully.",
+      "a": [
+        "into",
+        "after",
+        "out"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Choose the best option: She’d rather you ___ tomorrow.",
+      "a": [
+        "come",
+        "came",
+        "will come"
+      ],
+      "correct": 1,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Choose the formal synonym of 'kids'.",
+      "a": [
+        "kids",
+        "children",
+        "youngsters"
+      ],
+      "correct": 1,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Complete: We were made ___ the whole task again.",
+      "a": [
+        "repeat",
+        "to repeat",
+        "repeating"
+      ],
+      "correct": 1,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Choose the most natural sentence.",
+      "a": [
+        "Hardly had I sat down when the phone rang.",
+        "Hardly I had sat down when the phone rang.",
+        "I had hardly sat when rang the phone."
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Complete: This issue is far more complicated ___ it appears.",
+      "a": [
+        "than",
+        "as",
+        "that"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Choose the word closest to 'persuasive'.",
+      "a": [
+        "convincing",
+        "silent",
+        "ordinary"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "C1. Choose the best word: The results may ___ earlier assumptions.",
+      "a": [
+        "confirm",
+        "undermine",
+        "decorate"
+      ],
+      "correct": 1,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Complete: Had it not been for her help, we ___ the deadline.",
+      "a": [
+        "would miss",
+        "would have missed",
+        "missed"
+      ],
+      "correct": 1,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Choose the best academic linker.",
+      "a": [
+        "And",
+        "Moreover",
+        "Plus"
+      ],
+      "correct": 1,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Complete: The company failed to comply ___ safety regulations.",
+      "a": [
+        "with",
+        "to",
+        "for"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Choose the closest meaning of 'coherent'.",
+      "a": [
+        "logical and well connected",
+        "very short",
+        "highly emotional"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Complete: Her comments were interpreted as an attempt to ___ criticism.",
+      "a": [
+        "deflect",
+        "copy",
+        "publish"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Choose the best paraphrase of 'to some extent'.",
+      "a": [
+        "completely",
+        "partly",
+        "rarely"
+      ],
+      "correct": 1,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Complete: No sooner ___ the article published than experts began to question it.",
+      "a": [
+        "had",
+        "was",
+        "had been"
+      ],
+      "correct": 2,
+      "level": "C1"
+    },
+    {
+      "q": "C2. Choose the best word: Her argument was particularly ___ and difficult to refute.",
+      "a": [
+        "cogent",
+        "casual",
+        "hesitant"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Complete: Were the policy to be implemented overnight, the consequences ___ severe.",
+      "a": [
+        "might be",
+        "were",
+        "have been"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Choose the closest meaning of 'ubiquitous'.",
+      "a": [
+        "unusual",
+        "found everywhere",
+        "temporary"
+      ],
+      "correct": 1,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Complete: The witness’s testimony was judged insufficiently ___ to support the claim.",
+      "a": [
+        "substantiated",
+        "decorated",
+        "casual"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Choose the most nuanced connector.",
+      "a": [
+        "Nevertheless",
+        "And then",
+        "Because"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Complete: Far from ___ the dispute, the decision intensified it.",
+      "a": [
+        "resolve",
+        "resolving",
+        "resolved"
+      ],
+      "correct": 1,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Choose the meaning of 'meticulous'.",
+      "a": [
+        "very thorough and careful",
+        "careless",
+        "temporary"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Choose the most advanced sentence.",
+      "a": [
+        "Such was the complexity of the case that no immediate verdict was possible.",
+        "The case was very complex so no verdict happened.",
+        "The case complex and verdict impossible."
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Complete: The article is written in a style that is elegant yet remarkably ___.",
+      "a": [
+        "lucid",
+        "messy",
+        "weak"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Choose the best paraphrase of 'to pre-empt'.",
+      "a": [
+        "to delay deliberately",
+        "to prevent by acting first",
+        "to discuss in public"
+      ],
+      "correct": 1,
+      "level": "C2"
+    }
+  ],
+  "Русский": [
+    {
+      "q": "A1. Выберите правильную форму: Я ___ студент.",
+      "a": [
+        "есть",
+        "—",
+        "были"
+      ],
+      "correct": 1,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Выберите правильный вариант: Мы ___ дома.",
+      "a": [
+        "был",
+        "были",
+        "было"
+      ],
+      "correct": 1,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Выберите правильную форму: Она ___ чай.",
+      "a": [
+        "пьёт",
+        "пьют",
+        "пить"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Выберите правильный вопрос: ___ тебя зовут?",
+      "a": [
+        "Как",
+        "Что",
+        "Когда"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Выберите множественное число: книга → ___",
+      "a": [
+        "книги",
+        "книга",
+        "книгу"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Я каждый день ___ в школу.",
+      "a": [
+        "хожу",
+        "ходит",
+        "ходят"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Выберите правильный предлог: Я живу ___ Худжанде.",
+      "a": [
+        "в",
+        "на",
+        "с"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Это ___ ручка.",
+      "a": [
+        "мой",
+        "моя",
+        "моё"
+      ],
+      "correct": 1,
+      "level": "A1"
+    },
+    {
+      "q": "A2. Выберите правильный падеж: Я вижу ___ .",
+      "a": [
+        "книга",
+        "книгу",
+        "книге"
+      ],
+      "correct": 1,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Мы часто ___ фильмы вечером.",
+      "a": [
+        "смотрим",
+        "смотрите",
+        "смотрят"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Завтра я ___ работать.",
+      "a": [
+        "буду",
+        "есть",
+        "был"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Какой союз выражает причину?",
+      "a": [
+        "потому что",
+        "хотя",
+        "если"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. У неё нет ___ .",
+      "a": [
+        "брата",
+        "брат",
+        "брату"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Я уже ___ это письмо.",
+      "a": [
+        "читал",
+        "прочитал",
+        "читаю"
+      ],
+      "correct": 1,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Он говорит ___-русски.",
+      "a": [
+        "по",
+        "на",
+        "в"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Выберите правильное предложение.",
+      "a": [
+        "Мне нравится читать.",
+        "Мне нравиться читать.",
+        "Мне нравится читаю."
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "B1. Если бы у меня было время, я ___ больше.",
+      "a": [
+        "читал бы",
+        "читаю",
+        "прочитал"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Выберите вариант, близкий к уровню B1.",
+      "a": [
+        "могу поддержать беседу на бытовые темы",
+        "знаю только алфавит",
+        "понимаю одно слово"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Он сказал, что позже ___ .",
+      "a": [
+        "придёт",
+        "приходит",
+        "пришёл"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Выберите союз для противопоставления.",
+      "a": [
+        "однако",
+        "поэтому",
+        "например"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Этот фильм оказался интереснее, ___ я ожидал.",
+      "a": [
+        "чем",
+        "как",
+        "что"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Какой союз выражает цель?",
+      "a": [
+        "чтобы",
+        "потому что",
+        "хотя"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Значение слова 'надёжный':",
+      "a": [
+        "которому можно доверять",
+        "редкий",
+        "случайный"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Он зависит ___ решения директора.",
+      "a": [
+        "от",
+        "из",
+        "для"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B2. Выберите наиболее грамотный вариант.",
+      "a": [
+        "Несмотря на трудности, проект был завершён в срок.",
+        "Несмотря трудности, проект был завершён.",
+        "Проект несмотря трудности завершён срок."
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Какое слово ближе к значению 'убедительный'?",
+      "a": [
+        "аргументированный",
+        "случайный",
+        "обычный"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Вряд ли он ___ об этом заранее.",
+      "a": [
+        "знал",
+        "узнать",
+        "знает"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Выберите союз уступки.",
+      "a": [
+        "хотя",
+        "поэтому",
+        "и"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Он вёл себя так, будто ничего не ___.",
+      "a": [
+        "случилось",
+        "случится",
+        "случается"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Какой вариант звучит официальнее?",
+      "a": [
+        "дети",
+        "ребята",
+        "малыши"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Чем больше мы читаем, тем ___ выражаем мысли.",
+      "a": [
+        "лучше",
+        "хорошо",
+        "лучший"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Значение слова 'актуальный':",
+      "a": [
+        "важный именно сейчас",
+        "редкий",
+        "непонятный"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "C1. Его замечание восприняли как попытку ___ критику.",
+      "a": [
+        "отвлечь",
+        "усилить",
+        "повторить"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Какой вариант более академичен?",
+      "a": [
+        "кроме того",
+        "и ещё",
+        "а ещё"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Слово, близкое к 'последовательный' в тексте:",
+      "a": [
+        "логичный",
+        "внезапный",
+        "поверхностный"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Если бы не её помощь, мы ___ проект вовремя.",
+      "a": [
+        "не завершили бы",
+        "не завершим",
+        "не завершили"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Компания обязана соблюдать требования ___ безопасности.",
+      "a": [
+        "по",
+        "для",
+        "к"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Выражение, означающее частичность:",
+      "a": [
+        "в некоторой степени",
+        "в полной мере",
+        "безусловно"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Слово, близкое к 'опровергать':",
+      "a": [
+        "ставить под сомнение",
+        "подтверждать",
+        "украшать"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. После публикации данных эксперты начали их ___.",
+      "a": [
+        "оспаривать",
+        "повторять",
+        "скрывать"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C2. Слово, близкое к 'исчерпывающий':",
+      "a": [
+        "максимально полный",
+        "неполный",
+        "случайный"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Наиболее точный по стилю вариант:",
+      "a": [
+        "Аргументация оказалась чрезвычайно убедительной.",
+        "Аргументы были прям очень сильные.",
+        "Аргументы были нормальные."
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Выберите наиболее точный союз для противопоставления в научном стиле.",
+      "a": [
+        "тем не менее",
+        "но",
+        "а"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Значение слова 'щепетильный' в работе с деталями:",
+      "a": [
+        "чрезвычайно внимательный",
+        "небрежный",
+        "быстрый"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Выберите предложение с наиболее сложной синтаксической организацией.",
+      "a": [
+        "Настолько сложным оказалось дело, что вынести немедленный вердикт было невозможно.",
+        "Дело было сложным, вердикта не было.",
+        "Сложное дело, нет вердикта."
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Какое слово ближе к 'повсеместный'?",
+      "a": [
+        "вездесущий",
+        "локальный",
+        "единичный"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Значение глагола 'предвосхитить' в данном контексте:",
+      "a": [
+        "предотвратить, действуя заранее",
+        "забыть",
+        "ускорить случайно"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Доказательства оказались недостаточно ___.",
+      "a": [
+        "обоснованными",
+        "яркими",
+        "лаконичными"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Что означает 'когерентный текст'?",
+      "a": [
+        "логически связный",
+        "эмоциональный",
+        "короткий"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Решение не столько урегулировало спор, сколько ___ его.",
+      "a": [
+        "обострило",
+        "завершило",
+        "устранило"
+      ],
+      "correct": 0,
+      "level": "C2"
+    }
+  ],
+  "Немецкий": [
+    {
+      "q": "A1. Ich ___ Student.",
+      "a": [
+        "bin",
+        "ist",
+        "seid"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Wie ___ du?",
+      "a": [
+        "heißt",
+        "heiße",
+        "heißen"
+      ],
+      "correct": 1,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Wir ___ in Tadschikistan.",
+      "a": [
+        "wohnen",
+        "wohnt",
+        "wohnst"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Das ist ___ Buch.",
+      "a": [
+        "ein",
+        "eine",
+        "einen"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Ich ___ Tee.",
+      "a": [
+        "trinke",
+        "trinkst",
+        "trinkt"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Heute ___ Montag.",
+      "a": [
+        "ist",
+        "sind",
+        "sein"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Sie ___ aus Buston.",
+      "a": [
+        "kommt",
+        "kommen",
+        "kommst"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Wir haben zwei ___.",
+      "a": [
+        "Autos",
+        "Auto",
+        "Autoe"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A2. Ich wohne ___ Khujand.",
+      "a": [
+        "in",
+        "an",
+        "auf"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Gestern ___ ich zu Hause.",
+      "a": [
+        "war",
+        "bin",
+        "ist"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Ich lerne Deutsch, ___ ich in Deutschland studieren möchte.",
+      "a": [
+        "weil",
+        "aber",
+        "dass"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Er kann sehr gut ___.",
+      "a": [
+        "schwimmen",
+        "schwimmt",
+        "geschwommen"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Wir fahren morgen ___ Duschanbe.",
+      "a": [
+        "nach",
+        "zu",
+        "bei"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Das ist das Mädchen, ___ ich kenne.",
+      "a": [
+        "das",
+        "der",
+        "den"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Ich habe hier zwei Jahre ___ .",
+      "a": [
+        "gewohnt",
+        "wohne",
+        "wohnten"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Ich interessiere mich ___ Musik.",
+      "a": [
+        "für",
+        "an",
+        "mit"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "B1. Wenn ich mehr Zeit hätte, ___ ich mehr lesen.",
+      "a": [
+        "würde",
+        "werde",
+        "habe"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Er sagte, dass er später ___ .",
+      "a": [
+        "kommen würde",
+        "kommt",
+        "kam"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Das Buch wurde von einem bekannten Autor ___ .",
+      "a": [
+        "geschrieben",
+        "schreiben",
+        "schrieb"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Welches Wort ist ähnlich wie 'zuverlässig'?",
+      "a": [
+        "verlässlich",
+        "selten",
+        "laut"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Ich freue mich darauf, dich bald ___ .",
+      "a": [
+        "zu sehen",
+        "sehen",
+        "gesehen"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Obwohl es regnete, ___ wir spazieren.",
+      "a": [
+        "gingen",
+        "gehen",
+        "gegangen"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Welcher Konnektor zeigt einen Gegensatz?",
+      "a": [
+        "trotzdem",
+        "deshalb",
+        "danach"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Das Problem ist schwieriger, ___ ich dachte.",
+      "a": [
+        "als",
+        "wie",
+        "dann"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B2. Kaum ___ ich angekommen, als er schon ging.",
+      "a": [
+        "war",
+        "bin",
+        "hatte"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Sie tat so, als ob sie nichts ___ .",
+      "a": [
+        "wusste",
+        "weiß",
+        "wissen"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Welches Wort passt besser in einen formellen Kontext?",
+      "a": [
+        "Kinder",
+        "Kids",
+        "Kleinen"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Das Thema muss genauer ___ werden.",
+      "a": [
+        "diskutiert",
+        "diskutieren",
+        "diskutiertet"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Nicht nur ___ er zu spät, sondern er hatte auch den Schlüssel vergessen.",
+      "a": [
+        "war",
+        "ist",
+        "hat"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Ich hätte gern, dass du morgen ___ .",
+      "a": [
+        "kämst",
+        "kommst",
+        "kommen"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Welches Wort ist am ähnlichsten zu 'überzeugend'?",
+      "a": [
+        "überzeugend",
+        "langweilig",
+        "zufällig"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Je mehr man liest, desto ___ schreibt man.",
+      "a": [
+        "besser",
+        "gut",
+        "best"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "C1. Seine Bemerkung wurde als Versuch interpretiert, Kritik ___ .",
+      "a": [
+        "abzulenken",
+        "zu erhöhen",
+        "zu kopieren"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Welches Wort bedeutet 'schlüssig'?",
+      "a": [
+        "kohärent",
+        "vorläufig",
+        "zufällig"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Wäre ihre Hilfe nicht gewesen, ___ wir das Projekt nicht rechtzeitig abgeschlossen.",
+      "a": [
+        "hätten",
+        "haben",
+        "hatten"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Welcher Konnektor ist akademischer?",
+      "a": [
+        "Außerdem",
+        "Und dann",
+        "Plus"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Das Unternehmen muss ___ Sicherheitsstandards entsprechen.",
+      "a": [
+        "den",
+        "denen",
+        "mit"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Welcher Ausdruck bedeutet 'teilweise'?",
+      "a": [
+        "bis zu einem gewissen Grad",
+        "vollständig",
+        "niemals"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Experten begannen sofort, die Ergebnisse ___ .",
+      "a": [
+        "anzufechten",
+        "anzusehen",
+        "anzukommen"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Welches Wort ist am ähnlichsten zu 'untergraben'?",
+      "a": [
+        "aushöhlen",
+        "bestätigen",
+        "wiederholen"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C2. Ihre Argumentation war so ___, dass sogar Kritiker überzeugt wurden.",
+      "a": [
+        "stichhaltig",
+        "locker",
+        "nebensächlich"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Welches Wort bedeutet 'allgegenwärtig'?",
+      "a": [
+        "ubiquitär",
+        "knapp",
+        "vorläufig"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Wäre die Maßnahme abrupt umgesetzt worden, ___ die Folgen erheblich gewesen.",
+      "a": [
+        "wären",
+        "waren",
+        "sein"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Der Artikel ist zugleich elegant und ___.",
+      "a": [
+        "klar",
+        "naiv",
+        "schwankend"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Welche Formulierung ist stilistisch am gehobensten?",
+      "a": [
+        "So komplex war der Fall, dass kein sofortiges Urteil möglich war.",
+        "Der Fall war komplex und kein Urteil ging.",
+        "Komplexer Fall, kein Urteil."
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Was bedeutet 'präventiv handeln' hier am ehesten?",
+      "a": [
+        "vorbeugend handeln",
+        "später reagieren",
+        "zufällig handeln"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Die Aussage war nicht ausreichend ___, um die Behauptung zu stützen.",
+      "a": [
+        "belegt",
+        "vereinfacht",
+        "geschmückt"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Welcher Konnektor ist am nuanciertesten?",
+      "a": [
+        "Dennoch",
+        "Und",
+        "Weil"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. 'Akribisch' bedeutet:",
+      "a": [
+        "sehr gründlich",
+        "ungenau",
+        "schnell"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Weit davon entfernt, einen Kompromiss zu ___, verschärfte die Entscheidung den Konflikt.",
+      "a": [
+        "bilden",
+        "gebildet",
+        "bilde"
+      ],
+      "correct": 0,
+      "level": "C2"
+    }
+  ],
+  "Китайский": [
+    {
+      "q": "A1. 你好 的意思是：",
+      "a": [
+        "你好 / Hello",
+        "再见 / Goodbye",
+        "老师 / Teacher"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. 我___学生。",
+      "a": [
+        "是",
+        "有",
+        "在"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. 你叫什么___？",
+      "a": [
+        "呢",
+        "的",
+        "了"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. 他___老师。",
+      "a": [
+        "是",
+        "会",
+        "有"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. 我___茶。",
+      "a": [
+        "喝",
+        "看",
+        "听"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. “一” 是：",
+      "a": [
+        "one",
+        "two",
+        "three"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. 我住___苦盏。",
+      "a": [
+        "在",
+        "是",
+        "有"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. 谢谢 的意思是：",
+      "a": [
+        "Thank you",
+        "Sorry",
+        "Good night"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A2. 我今天___学校。",
+      "a": [
+        "去",
+        "看",
+        "听"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. 现在我___中文。",
+      "a": [
+        "学习",
+        "昨天",
+        "很"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. 哪个是疑问助词？",
+      "a": [
+        "吗",
+        "了",
+        "的"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. 我有两___书。",
+      "a": [
+        "本",
+        "个",
+        "只"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. 明天我们___老师。",
+      "a": [
+        "见",
+        "见了",
+        "昨天"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. 她___喝咖啡。",
+      "a": [
+        "不",
+        "没",
+        "不是"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. 哪个词表示 “because”?",
+      "a": [
+        "因为",
+        "但是",
+        "所以"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. 我学习中文___两年了。",
+      "a": [
+        "了",
+        "着",
+        "过"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "B1. 如果我有时间，我___多看书。",
+      "a": [
+        "会",
+        "是",
+        "在"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. 更接近 B1 的描述是：",
+      "a": [
+        "能进行日常交流",
+        "只会拼音",
+        "不会自我介绍"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. 老师说他明天___。",
+      "a": [
+        "来",
+        "来了",
+        "来的"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. 这个问题比我想的更___。",
+      "a": [
+        "复杂",
+        "最复杂",
+        "复杂了"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. 我期待___你。",
+      "a": [
+        "见到",
+        "看到了",
+        "正在见"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. 虽然下雨了，我们___去散步。",
+      "a": [
+        "还是",
+        "因为",
+        "所以"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. 哪个词表示对比？",
+      "a": [
+        "但是",
+        "所以",
+        "因为"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. 他对音乐很___。",
+      "a": [
+        "感兴趣",
+        "兴趣",
+        "有兴趣地"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B2. 这个建议需要进一步___。",
+      "a": [
+        "研究",
+        "研究了",
+        "研究着"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. 哪个词最接近 “reliable”?",
+      "a": [
+        "可靠",
+        "热闹",
+        "便宜"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. 不但他迟到了，___忘了钥匙。",
+      "a": [
+        "而且",
+        "因为",
+        "所以"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. 她宁愿你明天___。",
+      "a": [
+        "来",
+        "来了",
+        "来过"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. 这个问题远比它看起来___。",
+      "a": [
+        "复杂",
+        "最复杂",
+        "复杂的很"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. 哪个表达更正式？",
+      "a": [
+        "儿童",
+        "小孩儿们",
+        "孩子们呀"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. 我们被要求___报告。",
+      "a": [
+        "重写",
+        "重写了",
+        "重写着"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. 哪个词表示 persuasive？",
+      "a": [
+        "有说服力",
+        "普通",
+        "有趣"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "C1. 他的评论被理解为试图___批评。",
+      "a": [
+        "转移",
+        "增加",
+        "重复"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. 哪个词更接近 “coherent”?",
+      "a": [
+        "连贯",
+        "混乱",
+        "随便"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. 如果没有她的帮助，我们___按时完成项目。",
+      "a": [
+        "不会",
+        "不是",
+        "不能了"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. 哪个连接词更书面？",
+      "a": [
+        "此外",
+        "然后呢",
+        "还有呢"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. 公司必须___安全标准。",
+      "a": [
+        "遵守",
+        "听见",
+        "看到"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. “在某种程度上” 最接近：",
+      "a": [
+        "部分地",
+        "完全地",
+        "绝不"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. 专家很快开始___这些结果。",
+      "a": [
+        "质疑",
+        "喜欢",
+        "背诵"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. 哪个词最接近 “undermine”?",
+      "a": [
+        "削弱",
+        "证明",
+        "展示"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C2. 她的论证非常___，甚至批评者也被说服了。",
+      "a": [
+        "有力",
+        "保守",
+        "随便"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. “无处不在” 最接近：",
+      "a": [
+        "普遍存在",
+        "很少见",
+        "暂时的"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. 如果政策突然实施，后果___严重。",
+      "a": [
+        "可能会",
+        "已经",
+        "正在"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. 这篇文章的风格既优雅又___。",
+      "a": [
+        "清晰",
+        "幼稚",
+        "含糊"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. 哪句更高级？",
+      "a": [
+        "案件如此复杂，以至于无法立刻作出判决。",
+        "案子复杂，不能判。",
+        "很复杂，没法。"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. “先发制人” 最接近：",
+      "a": [
+        "提前行动以防止问题",
+        "拖延",
+        "公开讨论"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. 证词被认为不够___，无法支持该说法。",
+      "a": [
+        "充分证实",
+        "漂亮",
+        "简单"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. 哪个连接词更有层次？",
+      "a": [
+        "尽管如此",
+        "然后",
+        "因为"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. “一丝不苟” 的意思是：",
+      "a": [
+        "非常仔细",
+        "粗心",
+        "不确定"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. 这个决定非但没有达成妥协，反而___了冲突。",
+      "a": [
+        "加剧",
+        "结束",
+        "忽略"
+      ],
+      "correct": 0,
+      "level": "C2"
+    }
+  ],
+  "Корейский": [
+    {
+      "q": "A1. 안녕하세요 의 뜻은?",
+      "a": [
+        "Hello",
+        "Thank you",
+        "Teacher"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. 저는 학생___ .",
+      "a": [
+        "입니다",
+        "있습니다",
+        "갑니다"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. 이름이 뭐___?",
+      "a": [
+        "예요",
+        "가요",
+        "도요"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. 저는 차를 ___ .",
+      "a": [
+        "마셔요",
+        "가요",
+        "봐요"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. '하나'의 뜻은?",
+      "a": [
+        "one",
+        "two",
+        "three"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. 저는 후잔드에 ___ .",
+      "a": [
+        "살아요",
+        "먹어요",
+        "배워요"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. 그는 선생님___ .",
+      "a": [
+        "이에요",
+        "하고",
+        "으로"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. 감사합니다 의 뜻은?",
+      "a": [
+        "Thank you",
+        "Sorry",
+        "Please"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A2. 오늘 학교에 ___ .",
+      "a": [
+        "가요",
+        "갔어요",
+        "보요"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. 지금 한국어를 ___ .",
+      "a": [
+        "공부해요",
+        "어제",
+        "아주"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. 목적격 조사 는?",
+      "a": [
+        "을/를",
+        "은/는",
+        "에"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. 책 두 ___ .",
+      "a": [
+        "권",
+        "명",
+        "개"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. 내일 선생님을 ___ .",
+      "a": [
+        "만나요",
+        "만났어요",
+        "만나서"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. 그녀는 커피를 ___ 마셔요.",
+      "a": [
+        "안",
+        "못",
+        "아니"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. 'because' 에 가장 가까운 것은?",
+      "a": [
+        "왜냐하면",
+        "하지만",
+        "그리고"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. 저는 여기서 2년___ 살았어요.",
+      "a": [
+        "동안",
+        "마다",
+        "부터만"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "B1. 시간이 있으면 더 많이 ___ .",
+      "a": [
+        "읽을 거예요",
+        "읽어요 있었다",
+        "읽는다가"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. B1 수준에 더 가까운 설명은?",
+      "a": [
+        "일상 대화를 할 수 있다",
+        "한글만 조금 안다",
+        "자기소개를 못 한다"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. 선생님이 내일 ___고 했어요.",
+      "a": [
+        "온다",
+        "왔어요",
+        "오다"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. 이 문제는 생각보다 더 ___ .",
+      "a": [
+        "복잡해요",
+        "복잡하게",
+        "복잡"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. 당신을 빨리 ___ 기대해요.",
+      "a": [
+        "만나기를",
+        "만나서",
+        "만난"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. 비가 왔지만 우리는 ___ 산책했어요.",
+      "a": [
+        "그래도",
+        "그래서",
+        "왜냐하면"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. 대비를 나타내는 말은?",
+      "a": [
+        "하지만",
+        "그래서",
+        "또한"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. 그는 음악에 아주 ___ .",
+      "a": [
+        "관심이 있어요",
+        "관심해요",
+        "흥미되요"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B2. 이 제안은 더 자세히 ___ 해야 해요.",
+      "a": [
+        "검토를",
+        "검토",
+        "검토해서"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. 'reliable' 와 가장 가까운 것은?",
+      "a": [
+        "믿을 만한",
+        "시끄러운",
+        "저렴한"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. 그는 늦었을 뿐만 아니라 열쇠도 ___ .",
+      "a": [
+        "잊어버렸어요",
+        "잊어요",
+        "잊다"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. 그녀는 네가 내일 ___ 좋겠다고 했어요.",
+      "a": [
+        "오면",
+        "왔다",
+        "오고"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. 이 문제는 보이는 것보다 훨씬 더 ___ .",
+      "a": [
+        "복잡하다",
+        "복잡한데",
+        "복잡했고"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. 더 공식적인 표현은?",
+      "a": [
+        "아동",
+        "애들",
+        "꼬마들"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. 우리는 보고서를 다시 ___ 요구받았어요.",
+      "a": [
+        "쓰라고",
+        "써서",
+        "쓰게도"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. persuasive 와 가장 가까운 것은?",
+      "a": [
+        "설득력 있는",
+        "평범한",
+        "재미없는"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "C1. 그의 발언은 비판을 ___ 시도로 해석되었다.",
+      "a": [
+        "돌리려는",
+        "늘리는",
+        "반복하는"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. coherent 와 가장 가까운 것은?",
+      "a": [
+        "일관된",
+        "혼란스러운",
+        "대충인"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. 그녀의 도움이 없었다면 우리는 제시간에 프로젝트를 ___ .",
+      "a": [
+        "끝내지 못했을 것이다",
+        "끝낸다",
+        "끝냈다"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. 더 공식적인 연결어는?",
+      "a": [
+        "더욱이",
+        "그리고요",
+        "그 다음에"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. 회사는 안전 기준을 ___ 해야 한다.",
+      "a": [
+        "준수",
+        "보다",
+        "듣다"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. '어느 정도' 와 가장 가까운 의미는?",
+      "a": [
+        "부분적으로",
+        "완전히",
+        "절대로"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. 전문가들은 곧 결과를 ___ 시작했다.",
+      "a": [
+        "의심하기",
+        "좋아하기",
+        "암기하기"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. undermine 와 가장 가까운 것은?",
+      "a": [
+        "약화시키다",
+        "증명하다",
+        "보여주다"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C2. 그녀의 논리는 매우 ___ 비평가들까지 설득했다.",
+      "a": [
+        "탄탄해서",
+        "느슨해서",
+        "우연해서"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. ubiquitous 와 가장 가까운 의미는?",
+      "a": [
+        "어디에나 있는",
+        "드문",
+        "잠깐인"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. 정책이 갑자기 시행되었다면 결과는 매우 ___ .",
+      "a": [
+        "심각했을 수 있다",
+        "이미 끝났다",
+        "진행 중이다"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. 이 글의 문체는 우아하면서도 ___ .",
+      "a": [
+        "명료하다",
+        "유치하다",
+        "흐리다"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. 가장 높은 수준의 문장은?",
+      "a": [
+        "사안의 복잡성이 워낙 커 즉각적인 판결은 불가능했다.",
+        "문제가 복잡해서 판단 못 했다.",
+        "복잡했다."
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. pre-empt 와 가장 가까운 것은?",
+      "a": [
+        "미리 행동해 막다",
+        "미루다",
+        "공개하다"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. 증언은 주장을 뒷받침하기에 충분히 ___ 않았다.",
+      "a": [
+        "입증되지",
+        "화려하지",
+        "간단하지"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. 더 미묘한 연결어는?",
+      "a": [
+        "그럼에도 불구하고",
+        "그리고",
+        "왜냐하면"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. meticulous 의 뜻은?",
+      "a": [
+        "매우 꼼꼼한",
+        "부주의한",
+        "불확실한"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. 그 결정은 타협을 이루기는커녕 갈등을 오히려 ___ .",
+      "a": [
+        "심화시켰다",
+        "끝냈다",
+        "무시했다"
+      ],
+      "correct": 0,
+      "level": "C2"
+    }
+  ],
+  "Таджикский": [
+    {
+      "q": "A1. Калимаи дуруст: Ман ___ донишҷӯ ҳастам.",
+      "a": [
+        "як",
+        "ба",
+        "дар"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Шакли дуруст: Мо ___ дар хона.",
+      "a": [
+        "буд",
+        "будем",
+        "буданд"
+      ],
+      "correct": 1,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Калимаи дуруст: Ӯ ___ менӯшад.",
+      "a": [
+        "чой",
+        "меравад",
+        "мешунавад"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Саволи дуруст: Номи ту ___?",
+      "a": [
+        "чист",
+        "кай",
+        "куҷо"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Ҷамъ: як китоб — ду ___.",
+      "a": [
+        "китобҳо",
+        "китобро",
+        "китобе"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Ман ҳар рӯз ба мактаб ___ .",
+      "a": [
+        "меравам",
+        "меравад",
+        "рафт"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Пешоянди дуруст: Ман ___ Хуҷанд зиндагӣ мекунам.",
+      "a": [
+        "дар",
+        "аз",
+        "ба"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A1. Ин ___ ручка аст.",
+      "a": [
+        "моя",
+        "ман",
+        "мебошадам"
+      ],
+      "correct": 0,
+      "level": "A1"
+    },
+    {
+      "q": "A2. Шакли дуруст: Ман ___ мебинам.",
+      "a": [
+        "китобро",
+        "китоб",
+        "китобе"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Мо зуд-зуд филм ___ .",
+      "a": [
+        "мебинем",
+        "мебинад",
+        "дидааст"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Фардо ман ___ кор мекунам.",
+      "a": [
+        "хоҳам",
+        "буд",
+        "кардам"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Кадом пайвандак сабабро нишон медиҳад?",
+      "a": [
+        "зеро",
+        "гарчанде",
+        "агар"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Ӯ ___ надорад.",
+      "a": [
+        "бародар",
+        "бародарро",
+        "бародаре"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Ман ин номаро аллакай ___ .",
+      "a": [
+        "хондам",
+        "мехонам",
+        "мехонд"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Ӯ ___ тоҷикӣ хуб сухан мегӯяд.",
+      "a": [
+        "бо",
+        "дар",
+        "аз"
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "A2. Ҷумлаи дурустро интихоб кунед.",
+      "a": [
+        "Ба ман хондан маъқул аст.",
+        "Ба ман мехонам маъқул аст.",
+        "Ба ман хонданам хондам."
+      ],
+      "correct": 0,
+      "level": "A2"
+    },
+    {
+      "q": "B1. Агар вақт медоштам, бештар ___ .",
+      "a": [
+        "мехондам",
+        "мехонам",
+        "хондам"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Ба сатҳи B1 чӣ мувофиқ аст?",
+      "a": [
+        "метавонам дар мавзуъҳои рӯзмарра суҳбат кунам",
+        "танҳо алифборо медонам",
+        "худро муаррифӣ карда наметавонам"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Ӯ гуфт, ки баъдтар ___ .",
+      "a": [
+        "меояд",
+        "омад",
+        "меомад буд"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Кадом калима зиддиятро нишон медиҳад?",
+      "a": [
+        "аммо",
+        "бинобар ин",
+        "масалан"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Ин масъала аз он чизе ки ман фикр кардам, ___ буд.",
+      "a": [
+        "мушкилтар",
+        "мушкил",
+        "мушкилӣ"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Кадом пайвандак мақсадро нишон медиҳад?",
+      "a": [
+        "то ки",
+        "зеро",
+        "гарчанде"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Маънои наздик ба 'боэътимод' кадом аст?",
+      "a": [
+        "боваринок",
+        "нодир",
+        "баланд"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B1. Ӯ ___ мусиқӣ таваҷҷуҳ дорад.",
+      "a": [
+        "ба",
+        "дар",
+        "аз"
+      ],
+      "correct": 0,
+      "level": "B1"
+    },
+    {
+      "q": "B2. Ҷумлаи дурустро интихоб кунед.",
+      "a": [
+        "Бо вуҷуди душвориҳо, лоиҳа сари вақт анҷом ёфт.",
+        "Бо вуҷуди душвориҳо лоиҳа вақт шуд.",
+        "Бо душворӣ, лоиҳа буд."
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Калимаи наздик ба 'қонеъкунанда' кадом аст?",
+      "a": [
+        "далелнок",
+        "муқаррарӣ",
+        "заиф"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Аз эҳтимол дур аст, ки ӯ инро пешакӣ ___ .",
+      "a": [
+        "дониста бошад",
+        "медонад",
+        "донист"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Кадом пайвандак гузаштро нишон медиҳад?",
+      "a": [
+        "гарчанде",
+        "бинобар ин",
+        "ва"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Ӯ чунин рафтор кард, ки гӯё ҳеҷ чиз ___ .",
+      "a": [
+        "рух надода бошад",
+        "рух медиҳад",
+        "рух дод"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Кадом шакл расмитар аст?",
+      "a": [
+        "кӯдакон",
+        "бачагон",
+        "майдаҳо"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Ҳар қадар бештар хонем, ҳамон қадар фикрро ___ баён мекунем.",
+      "a": [
+        "беҳтар",
+        "хуб",
+        "беҳтарин"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "B2. Маънои 'муосир ва муҳим' ба кадом калима наздик аст?",
+      "a": [
+        "актуалӣ",
+        "тасодуфӣ",
+        "суст"
+      ],
+      "correct": 0,
+      "level": "B2"
+    },
+    {
+      "q": "C1. Эзоҳаш ҳамчун кӯшиши ___ танқид фаҳмида шуд.",
+      "a": [
+        "дур кардан аз худ",
+        "зиёд кардан",
+        "такрор кардан"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Калимаи наздик ба 'мантиқӣ ва пайгирона' кадом аст?",
+      "a": [
+        "пайваста",
+        "тасодуфӣ",
+        "оддӣ"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Агар кӯмаки ӯ намебуд, мо лоиҳаро сари вақт ___ .",
+      "a": [
+        "ба анҷом намерасонидем",
+        "ба анҷом мерасонем",
+        "ба анҷом расондем"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Кадом пайвандак академикитар аст?",
+      "a": [
+        "илова бар ин",
+        "ва боз",
+        "баъд"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Ширкат бояд меъёрҳои амниятро ___ кунад.",
+      "a": [
+        "риоя",
+        "шунавад",
+        "тамошо"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Кадом ифода 'дар дараҷаи муайян' маъно дорад?",
+      "a": [
+        "то андозае",
+        "комилан",
+        "ҳеҷ гоҳ"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Коршиносон зуд натиҷаҳоро ___ карданд.",
+      "a": [
+        "зери шубҳа гузоштанд",
+        "писандиданд",
+        "аз ёд карданд"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C1. Калимаи наздик ба 'суст кардан' кадом аст?",
+      "a": [
+        "заиф намудан",
+        "исбот кардан",
+        "нишон додан"
+      ],
+      "correct": 0,
+      "level": "C1"
+    },
+    {
+      "q": "C2. Далелҳои ӯ чунон ___ буданд, ки ҳатто мунтақидон қонеъ шуданд.",
+      "a": [
+        "мустаҳкам",
+        "суст",
+        "оддӣ"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Маънои 'ҳама ҷо мавҷуд' кадом аст?",
+      "a": [
+        "ҳамагонӣ",
+        "нодир",
+        "муваққатӣ"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Агар сиёсат ногаҳон ҷорӣ мешуд, паёмадҳо метавонистанд хеле ___ бошанд.",
+      "a": [
+        "сангин",
+        "оддӣ",
+        "равшан"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Услуби мақола ҳам зебо ва ҳам ___ буд.",
+      "a": [
+        "равшан",
+        "кӯдакона",
+        "нофаҳмо"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Кадом ҷумла сатҳи болотар дорад?",
+      "a": [
+        "Мушкилии қазия то ҳадде буд, ки ҳукми фаврӣ номумкин гардид.",
+        "Қазия мушкил буд, ҳукм нашуд.",
+        "Мушкил буд."
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. 'Пешгирӣ кардан бо амали барвақт' ба кадом маъно наздик аст?",
+      "a": [
+        "пешдастӣ кардан",
+        "ба таъхир андохтан",
+        "эълон кардан"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Шаҳодат барои тасдиқи даъво ба қадри кофӣ ___ набуд.",
+      "a": [
+        "асоснок",
+        "зебо",
+        "кӯтоҳ"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Кадом пайвандак нозуктар аст?",
+      "a": [
+        "бо вуҷуди ин",
+        "ва",
+        "зеро"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Маънои 'бисёр бодиққат' кадом аст?",
+      "a": [
+        "муфассалкор",
+        "беэҳтиёт",
+        "ноустувор"
+      ],
+      "correct": 0,
+      "level": "C2"
+    },
+    {
+      "q": "C2. Ин қарор ба ҷойи ҳалли баҳс онро боз ҳам ___ кард.",
+      "a": [
+        "шиддат дод",
+        "хотима дод",
+        "пинҳон кард"
+      ],
+      "correct": 0,
+      "level": "C2"
+    }
+  ]
+}
